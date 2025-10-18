@@ -1,9 +1,10 @@
 -  Hi, I’m Madhan
 -  Interested in  coding, building stuff from scratch ......
 -  Full-Stack Developer | SaaS Builder | Cloud & AI Enthusiast
-  Building scalable  apps with React, Next.js, Node.js, PostgreSQL, AWS, and Docker.
-  Open-source contributor, indie hacker, and lifelong learner.
--   reach me ... mail me @madhanreddy400@gmail.com
+-  Building scalable  apps with React, Next.js, Node.js, PostgreSQL, AWS, and Docker.
+-  Open-source contributor, indie hacker, and lifelong learner.
+-  portfolio: https://madhan-resume.vercel.app/
+-  reach me ... mail me @madhanreddy400@gmail.com
 
 
 📍 India 
